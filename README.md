@@ -2,7 +2,7 @@
 
 ## 👋 안녕하세요, iOS 개발자 김동윤입니다!
 
-### 1 day 1 commit challenge
+### 🗓 1 day 1 commit challenge
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dongyoon1126)](https://git.io/streak-stats)
 
 ### 📚 Tech Stacks
