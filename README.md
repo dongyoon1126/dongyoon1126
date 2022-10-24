@@ -3,7 +3,7 @@
 ## 👋 안녕하세요, iOS 개발자 김동윤입니다!
 
 ### 🗓 1 day 1 commit challenge
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drew105)](https://git.io/streak-stats)
+
 
 ### 📚 Tech Stacks
 <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=round-square&logo=Firebase&logoColor=white"/>
