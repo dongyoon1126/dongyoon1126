@@ -10,7 +10,7 @@
 <br>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-512BD4?style=round-square&logo=Figma&logoColor=white"/>
 ### ✌️ About me
-<a href="https://www.instagram.com/drew105/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/drew.105/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dongyoon.dev@gmail.com)
 <a href="https://hungry-random-aa3.notion.site/Portfolio-4adb28e9de3749b2b725a1591d850d3a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=round-square&logo=Notion&logoColor=black"/></a> 
 
