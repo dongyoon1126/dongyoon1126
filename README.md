@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 안녕하세요, iOS 개발자 김동윤입니다!
+## 👋 Hi, I'm iOS developer DongYoon Kim!
 
 ### 🗓 1 day 1 commit challenge
 [![GitHub Streak](https://streak-stats.demolab.com/?user=drew105&)](https://git.io/streak-stats)
