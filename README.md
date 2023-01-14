@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm DongYoon Kim!
+## 🙌 Hi, I'm DongYoon Kim!
 
 ### 🗓 1 day 1 commit challenge
 [![GitHub Streak](https://streak-stats.demolab.com/?user=drew105&)](https://git.io/streak-stats)
