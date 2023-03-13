@@ -6,9 +6,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=drew105&)](https://git.io/streak-stats)
 
 ### 📚 Tech Stacks & Tools 🔨
-<img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=round-square&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-512BD4?style=round-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=round-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-512BD4?style=round-square&logo=Figma&logoColor=white"/>
 
 ### ✌️ About me
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdrew105&count_bg=%23787878&title_bg=%23373737&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com)
