@@ -2,8 +2,8 @@
 
 ## 🙌 Hi, I'm DongYoon Kim!
 
-### 🗓 1 day 1 commit challenge
-[![GitHub Streak](https://streak-stats.demolab.com/?user=drew105&)](https://git.io/streak-stats)
+<!-- ### 🗓 1 day 1 commit challenge
+[![GitHub Streak](https://streak-stats.demolab.com/?user=drew105&)](https://git.io/streak-stats) -->
 
 ### 📚 Tech Stacks & Tools 🔨
 <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"/>
